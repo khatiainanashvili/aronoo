@@ -32,7 +32,7 @@ const Home = () => {
 
 
   <div className="facke_home" onClick={() => navigate("/fake")} style={{ cursor: "pointer" }}>
-  <h2>FACKE MEMORIES</h2>
+  <h2>FAKE MEMORIES</h2>
    
     <div className="poker-hand">
   {fackeImages.map((src, i) => {
