@@ -2,10 +2,12 @@ import { useState } from "react";
 import "./InfiniteCarousel.css";
 
 const fackeImages = [
-  "images/fake/fake1.JPG",
-  "images/fake/fake2.JPG",
-  "images/fake/fake3.JPG",
   "images/fake/fake4.JPG",
+  "images/fake/fake5.JPG",
+  "images/fake/fake2.JPG",
+  "images/fake/fake1.JPG",
+  "images/fake/fake3.JPG",
+  
 ];
 
 const FakeMemories = () => {

@@ -8,10 +8,12 @@ const images = [
 ];
 
 const fackeImages = [
-  "images/fake/fake1.JPG",
-  "images/fake/fake2.JPG",
-  "images/fake/fake3.JPG",
+    "images/fake/fake5.JPG",
   "images/fake/fake4.JPG",
+  "images/fake/fake2.JPG",
+  "images/fake/fake1.JPG",
+  "images/fake/fake3.JPG"
+  
 ];
 
 const realImages = [
@@ -20,6 +22,7 @@ const realImages = [
   "images/real/real4.MOV",
   "images/real/real5.mov",
   "images/real/real6.MOV",
+  "images/real/real7.mp4",
 
 ];
 const Home = () => {
