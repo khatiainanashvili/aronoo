@@ -45,8 +45,9 @@ const App = () => {
 
         <nav className={`cool-navbar ${menuOpen ? "show" : ""}`}>
           <Link to="/" onClick={() => setMenuOpen(false)}> Homie</Link>
-          <Link to="/real" onClick={() => setMenuOpen(false)}> Real Memories</Link>
           <Link to="/fake" onClick={() => setMenuOpen(false)}> Fake Memories</Link>
+          <Link to="/real" onClick={() => setMenuOpen(false)}> Real Memories</Link>
+         
         </nav>
       </header>
   
