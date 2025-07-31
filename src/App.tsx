@@ -67,7 +67,7 @@ const App = () => {
       </HashRouter>
 
        <footer>
-         <img src={"images/footer.PNG"} alt="" />
+         <img src={"images/footer.png"} alt="" />
       </footer>
     </div>
   );
